@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Escrowbear/static/css/main.cd655e3f.chunk.css",
+    "main.css": "/Escrowbear/static/css/main.0c2f0c4d.chunk.css",
     "main.js": "/Escrowbear/static/js/main.b408f92f.chunk.js",
     "main.js.map": "/Escrowbear/static/js/main.b408f92f.chunk.js.map",
     "runtime-main.js": "/Escrowbear/static/js/runtime-main.633c4983.js",
@@ -10,7 +10,7 @@
     "static/js/2.7bad31e8.chunk.js.map": "/Escrowbear/static/js/2.7bad31e8.chunk.js.map",
     "index.html": "/Escrowbear/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/Escrowbear/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.cd655e3f.chunk.css.map": "/Escrowbear/static/css/main.cd655e3f.chunk.css.map",
+    "static/css/main.0c2f0c4d.chunk.css.map": "/Escrowbear/static/css/main.0c2f0c4d.chunk.css.map",
     "static/js/2.7bad31e8.chunk.js.LICENSE.txt": "/Escrowbear/static/js/2.7bad31e8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Escrowbear/static/media/bg1.4cae684f.jpg",
     "static/media/login.0926dfca.jpg": "/Escrowbear/static/media/login.0926dfca.jpg",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.633c4983.js",
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.7bad31e8.chunk.js",
-    "static/css/main.cd655e3f.chunk.css",
+    "static/css/main.0c2f0c4d.chunk.css",
     "static/js/main.b408f92f.chunk.js"
   ]
 }
